@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hey there! 👋 I'm Prashanth
 
-<!--
-**Prashanth0703/Prashanth0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing my **M.Sc. in Computer Science** at the **University of Freiburg, Germany**.
+- 💻 I have over **2 years of professional experience** in full-stack software development and data analysis.
+- 🔬 I'm currently working on **optimizing SPARQL expression evaluation in QLever**, an open-source C++ knowledge-graph query engine.
+- 🤖 I'm exploring **Machine Learning, Deep Learning, Generative AI, and LLM-based applications**.
+- 🛠️ I enjoy building things with **Python, C++, TypeScript, React, Node.js, and AWS**.
+- 🚀 I'm developing **SupportLens**, an AI-powered customer support platform combining full-stack development with machine learning.
+- 🤝 I'm always interested in collaborating on projects involving **AI, software engineering, and real-world problem-solving**.
+- 💬 Ask me about **software development, AI/ML, or anything tech-related**. I'm always up for learning something new!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/prashanth-premakumar/).
